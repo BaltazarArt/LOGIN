@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Reyes Baltazar Baltazar. Matricula: 2022705
+Licenciatura en Sistemas Computacionales
  */
 package mx.edu.cesba.login;
 
